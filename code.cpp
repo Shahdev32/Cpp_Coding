@@ -185,8 +185,28 @@ int main(){
 
 
 
-    sizeof (char);
-sizeof (var_name);
+//     sizeof (char);
+// sizeof (var_name);
+
+
+// pointer
+
+
+  // int a = 10;
+  // int *ptr =&a;
+  
+  // cout<<&a<<endl;
+
+
+   
+
+
+
+
+
+
+
+
 
     return 0;
 
